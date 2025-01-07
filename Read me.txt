@@ -1,4 +1,6 @@
-How to run the Online Shopping Portal using PHP and MySQL
+# Twenty-one-stores-ecommerce-website
+An ecommerce website based on php,html, css, javascript and bootstrap. Has admin and user side, order and product management, aswell as a payment gateway for demonstration purposes. Created by Evelyn Hone College student Chibale Nkandu.
+How to run theTwenty-one-stores-ecommerce-website using PHP and MySQL
 
 1. Download the  zip file
 
@@ -24,3 +26,4 @@ Password : Test@123
 *************For Admin ******************
 User Name : admin
 Password : Test@123
+To use flutterwave, go on flutterwave and create an account  the get the bearer key, then paste the key in  C:\xampp\htdocs\shopping\makepayments\process.php  on code line 22, just after bearer.
